@@ -1,6 +1,6 @@
 # 👋 Hi there! I’m @Chandra-Sekhar-02-45
 Welcome to my GitHub profile! 🚀  
-I'm passionate about [your interests, e.g., software development, open-source contributions, or AI research]. Here, you'll find a mix of my personal projects, collaborations, and learning experiments.
+I'm passionate about Entrepreneurship, Full Stack Application Development, Database Managemant System etc.. Here, you'll find a mix of my personal projects, collaborations, and learning experiments.
 
 ---
 
