@@ -27,7 +27,7 @@ I'm passionate about [your interests, e.g., software development, open-source co
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandra-sekhar-02-45&show_icons=true&theme=dark)
 
 ---
 
