@@ -3,7 +3,11 @@ Welcome to my GitHub profile! 🚀
 I'm passionate about Entrepreneurship, Digital Marketing, Full Stack Application Development, Database Management Systems, Cloud Services, and more. Here, you'll find a mix of my personal projects, collaborations, and learning experiments.
 
 ---
+## 👀 Profile Views
 
+![Profile Views](https://komarev.com/ghpvc/?username=Chandra-Sekhar-02-45&color=blue)
+
+---
 ## 🌟 About Me
 
 - 💻 Currently learning: Linux, Python, and Git 
@@ -30,16 +34,11 @@ I'm passionate about Entrepreneurship, Digital Marketing, Full Stack Application
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandra-Sekhar-02-45&show_icons=true&theme=dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandra-Sekhar-02-45&layout=compact&theme=dark)
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandra-Sekhar-02-45&show_icons=true&theme=dark)
 ---
 
-## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=Chandra-Sekhar-02-45&color=blue)
-
----
 
 ## 📂 Featured Projects
 
