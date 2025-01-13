@@ -1,13 +1,10 @@
 # 👋 Hi there! I’m @Chandra-Sekhar-02-45
-Welcome to my GitHub profile! 🚀  
-I'm passionate about Entrepreneurship, Digital Marketing, Full Stack Application Development, Database Management Systems, Cloud Services, and more. Here, you'll find a mix of my personal projects, collaborations, and learning experiments.
-
----
-## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Chandra-Sekhar-02-45&color=blue)
 
----
+Welcome to my GitHub profile! 🚀  
+I'm passionate about Entrepreneurship, Digital Marketing, Full Stack Application Development, Database Management Systems, Cloud Services, and more. Here, you'll find a mix of my personal projects, collaborations, and learning experiments.
+
 ## 🌟 About Me
 
 - 💻 Currently learning: Linux, Python, and Git 
