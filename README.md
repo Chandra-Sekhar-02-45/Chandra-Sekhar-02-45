@@ -1,9 +1,6 @@
-# 👋 Hi there! I’m @Chandra-Sekhar-02-45
+                                                                                           # 👋 Hi there! I’m @Chandra-Sekhar-02-45
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Chandra-Sekhar-02-45&color=blue)
-
-Welcome to my GitHub profile! 🚀  
-I'm passionate about Entrepreneurship, Digital Marketing, Full Stack Application Development, Database Management Systems, Cloud Services, and more. Here, you'll find a mix of my personal projects, collaborations, and learning experiments.
 
 ## 🌟 About Me
 
@@ -48,7 +45,7 @@ I'm passionate about Entrepreneurship, Digital Marketing, Full Stack Application
 
 - 🌐 [Personal Website](https://yourwebsite.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/chandrasekhar45)
-- 🐦 [Twitter](https://twitter.com/your-handle)
+- 🐦 [Twitter](https://x.com/_Chanduu45_)
 - 📧 Email: rvcsraju@gmail.com
 
 ---
