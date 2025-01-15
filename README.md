@@ -1,7 +1,7 @@
 # Hi 👋, I'm Chandra Sekhar | An Enthusiastic Entrepreneur!  
 ![Profile Views](https://komarev.com/ghpvc/?username=Chandra-Sekhar-02-45&color=blue) 
 ---
-- 🌱 I’m currently learning Linux, Python, and Git.  
+- 🌱 I’m currently learning Linux, Python, MongoDB and Git.  
 - 🔭 I’m working on projects like Innovation Link and Music Streaming Platform.  
 - 📫 How to reach me: rvcsraju@gmail.com
 ---
