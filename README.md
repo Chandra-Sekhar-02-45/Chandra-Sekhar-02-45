@@ -10,7 +10,7 @@
 |:------------------------:|:----------------:|
 | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandra-Sekhar-02-45&layout=compact&theme=dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandra-Sekhar-02-45&show_icons=true&theme=dark) |
 ---
-## 🚀 All Coding Languages and Tools I Know! :
+## 🚀 All Coding Languages and Tools I Used in My Repositories! :
 ### Languages and Frameworks:
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
