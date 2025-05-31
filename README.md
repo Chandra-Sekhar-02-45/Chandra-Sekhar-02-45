@@ -28,6 +28,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?logo=jetbrains&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-242424?logo=figma&logoColor=F24E1E)
+
+
+
 
 
 
