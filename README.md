@@ -1,4 +1,4 @@
-# Hi 👋, I'm Chandra Sekhar | An Enthusiastic Entrepreneur!  
+# Hi 👋, I'm Chandra Sekhar | An Enthusiastic Entrepreneur !  
 ![Profile Views](https://komarev.com/ghpvc/?username=Chandra-Sekhar-02-45&color=blue) 
 ---
 - 🌱 I’m currently learning Python and MongoDB.
