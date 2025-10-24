@@ -30,10 +30,10 @@
 ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?logo=jetbrains&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-242424?logo=figma&logoColor=F24E1E)
 
-
-
-
-
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
 ---
 ## 🌐 Connect with me:
