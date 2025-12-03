@@ -1,71 +1,55 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20Chandra%20Sekhar&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Chandra%20Sekhar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Entrepreneur%20%7C%20Full%20Stack%20Developer%20%7C%20Innovator&descAlignY=55&descAlign=60" />
 </div>
 
 <div align="center">
 
-# 🚀 Chandra Sekhar
-### Entrepreneur | Full Stack Developer | Innovator
+[![Profile Views](https://komarev.com/ghpvc/?username=Chandra-Sekhar-02-45&color=7000ff)](https://github.com/Chandra-Sekhar-02-45)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Chandra-Sekhar-02-45&color=blue)](https://github.com/Chandra-Sekhar-02-45)
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! I'm Chandra Sekhar
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## � About Me
 
-I’m a **B.Tech student**, **Entrepreneur**, and the Founder of **[Innovation Link](https://innovationlink.in)**. I am passionate about building scalable solutions, experimenting with cutting-edge technologies, and solving real-world problems. My journey involves everything from designing intuitive UIs to architecting robust backend systems.
+I am a **B.Tech student**, **Entrepreneur**, and the Founder of **[Innovation Link](https://innovationlink.in)**. I specialize in building scalable, real-world solutions and exploring the frontiers of technology.
 
-- 🔭 **Currently Working on:** **[Innovation Link](https://innovationlink.in)** (My Startup), a comprehensive **Banking System**, and a **Music Streaming Platform**.
-- 🌱 **Learning:** Advanced **MongoDB** patterns and **AI/ML** integration.
-- 💬 **Ask me about:** Full Stack Development, Startups, and Cloud Native Architecture.
+- 💼 **Founder:** **[Innovation Link](https://innovationlink.in)** - A startup ecosystem platform.
+- 🔭 **Currently Building:**
+    - A comprehensive **Banking System** (Spring Boot, React, K8s).
+    - **[Innovation Link](https://innovationlink.in)** (Startup Platform).
+    - A **Music Streaming Platform**.
+- 🌱 **Learning:** Advanced **MongoDB** patterns, **AI/ML**, and **Cloud Native Architecture**.
+- 💬 **Ask me about:** Full Stack Development, Entrepreneurship, and DevOps.
 - 📫 **Reach me at:** [rvcsraju@gmail.com](mailto:rvcsraju@gmail.com)
 
----
-
-## 🏦 Featured Project: Modern Banking System
-
-I am currently architecting and building a robust, full-stack **Banking System** designed for scalability and security.
-
-### 🌟 Key Features
-- **Secure Authentication:** Implemented robust JWT-based authentication and authorization.
-- **Role-Based Access:** Distinct portals for **Admins** and **Users**.
-- **Core Banking Operations:**
-    - **Loan Management:** Apply, track, and manage loans seamlessly.
-    - **Auto-Payments:** Schedule and automate recurring payments.
-    - **Portfolio Management:** Real-time visualization of assets and financial health.
-- **Microservices Ready:** Designed with a modular architecture suitable for containerization and orchestration.
-
-### 🛠️ Tech Stack
-- **Frontend:** React.js, TailwindCSS (Responsive & Modern UI)
-- **Backend:** Java, Spring Boot (REST APIs, Security)
-- **Database:** MySQL / MongoDB
-- **DevOps:** Docker, Kubernetes (Minikube), Nginx (Reverse Proxy)
+> "Innovation distinguishes between a leader and a follower." �
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,react,html,css,bootstrap,mysql,mongodb,spring" />
-
-### Tools, DevOps & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,nginx,linux,ubuntu,vscode,idea,figma" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,react,html,css,bootstrap,mysql,mongodb,spring,git,github,docker,kubernetes,jenkins,nginx,linux,vscode,idea,figma&perline=11" />
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
 | **GitHub Stats** | **Top Languages** |
 |:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandra-Sekhar-02-45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandra-Sekhar-02-45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandra-Sekhar-02-45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandra-Sekhar-02-45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117) |
+
+<br>
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Chandra-Sekhar-02-45&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
 
@@ -75,20 +59,24 @@ I am currently architecting and building a robust, full-stack **Banking System**
 
 <div align="center">
 
+<a href="https://innovationlink.in" target="_blank">
+<img src="https://img.shields.io/badge/Website-Innovation%20Link-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+</a>
+&nbsp;
 <a href="mailto:rvcsraju@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/chandrasekhar45">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/_vcsr_45/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 &nbsp;
 <a href="https://twitter.com/_Chanduu45_">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 
 </div>
@@ -96,7 +84,5 @@ I am currently architecting and building a robust, full-stack **Banking System**
 ---
 
 <div align="center">
-  <i>"Innovation distinguishes between a leader and a follower."</i>
-  <br>
-  <b>⭐ Star this repository if you like my profile!</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
