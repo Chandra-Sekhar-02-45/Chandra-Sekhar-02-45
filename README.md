@@ -24,7 +24,7 @@ I am a **B.Tech student**, **Entrepreneur**, and the Founder of **[InnovationLin
 - 🔭 **Building:** A comprehensive **Banking System** (Spring Boot, React, Kafka).
 - 🎵 **Working on:** **InnovationLink** & a **Music Streaming Platform**.
 - 🌱 **Learning:** Advanced **MongoDB**, **AI/ML**, and **Cloud Native Architecture**.
-- � **Interests:** Full Stack Development, Entrepreneurship, and DevOps.
+- 💡 **Interests:** Full Stack Development, Entrepreneurship, and DevOps.
 
 ---
 
@@ -127,4 +127,7 @@ A full-stack media streaming application with a modern UI and seamless playback.
   <i>"Innovation distinguishes between a leader and a follower."</i>
   <br>
   <b>⭐ Star this repository if you like my profile!</b>
+  
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
