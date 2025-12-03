@@ -15,9 +15,9 @@
 
 ## 👨‍💻 About Me
 
-I’m a **B.Tech student**, **Entrepreneur**, and the Founder of **Innovation Link**. I am passionate about building scalable solutions, experimenting with cutting-edge technologies, and solving real-world problems. My journey involves everything from designing intuitive UIs to architecting robust backend systems.
+I’m a **B.Tech student**, **Entrepreneur**, and the Founder of **[Innovation Link](https://innovationlink.in)**. I am passionate about building scalable solutions, experimenting with cutting-edge technologies, and solving real-world problems. My journey involves everything from designing intuitive UIs to architecting robust backend systems.
 
-- 🔭 **Currently Working on:** A comprehensive **Banking System**, **Innovation Link**, and a **Music Streaming Platform**.
+- 🔭 **Currently Working on:** **[Innovation Link](https://innovationlink.in)** (My Startup), a comprehensive **Banking System**, and a **Music Streaming Platform**.
 - 🌱 **Learning:** Advanced **MongoDB** patterns and **AI/ML** integration.
 - 💬 **Ask me about:** Full Stack Development, Startups, and Cloud Native Architecture.
 - 📫 **Reach me at:** [rvcsraju@gmail.com](mailto:rvcsraju@gmail.com)
