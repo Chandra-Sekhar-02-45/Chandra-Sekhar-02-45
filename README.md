@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Founder;Full+Stack+Developer;Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Founder;Full+Stack+Developer;Innovator;Entrepreneur" alt="Typing SVG" />
 </a>
 
 </div>
@@ -21,9 +21,9 @@
 I am a **B.Tech student**, **Entrepreneur**, and the Founder of **[InnovationLink](https://innovationlink.in)**. I specialize in building scalable, real-world solutions and exploring the frontiers of technology.
 
 - 💼 **Founder:** **[InnovationLink](https://innovationlink.in)** - A startup ecosystem platform.
-- 🔭 **Building:** A comprehensive **Banking System** (Spring Boot, React, Kafka).
-- 🎵 **Working on:** **InnovationLink** & a **Music Streaming Platform**.
-- 🌱 **Learning:** Advanced **MongoDB**, **AI/ML**, and **Cloud Native Architecture**.
+- 🔭 **Building:** A comprehensive **Online Banking System (Fluite)**.
+- 🎵 **Working on:** **InnovationLink**.
+- 🌱 **Learning:** Advanced **MongoDB**, **AI/ML**.
 - 💡 **Interests:** Full Stack Development, Entrepreneurship, and DevOps.
 
 ---
