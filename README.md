@@ -40,7 +40,10 @@ I am a **B.Tech student**, **Entrepreneur**, and the Founder of **[InnovationLin
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
+
+### Languages
+<img src="https://skillicons.dev/icons?i=java,python,c" />
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
@@ -48,8 +51,11 @@ I am a **B.Tech student**, **Entrepreneur**, and the Founder of **[InnovationLin
 ### Database
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-### DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman,aws,gcp" />
+### DevOps 
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible" />
+
+### Platform 
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,apple,idea" />
 
 </div>
 
