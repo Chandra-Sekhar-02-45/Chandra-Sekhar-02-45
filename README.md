@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Entrepreneur;Full+Stack+Developer;Innovator;Founder+of+Innovation+Link" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Entrepreneur;Full+Stack+Developer;Innovator;Founder+of+InnovationLink" alt="Typing SVG" />
 </a>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="vertical-align: bottom;"> Hi there! I'm Chandra Sekhar
@@ -20,12 +20,12 @@
 
 ## 🚀 About Me
 
-I am a **B.Tech student**, **Entrepreneur**, and the Founder of **[Innovation Link](https://innovationlink.in)**. I specialize in building scalable, real-world solutions and exploring the frontiers of technology.
+I am a **B.Tech student**, **Entrepreneur**, and the Founder of **[InnovationLink](https://innovationlink.in)**. I specialize in building scalable, real-world solutions and exploring the frontiers of technology.
 
-- 💼 **Founder:** **[Innovation Link](https://innovationlink.in)** - A startup ecosystem platform.
+- 💼 **Founder:** **[InnovationLink](https://innovationlink.in)** - A startup ecosystem platform.
 - 🔭 **Currently Building:**
     - A comprehensive **Banking System** (Spring Boot, React, K8s).
-    - **[Innovation Link](https://innovationlink.in)** (Startup Platform).
+    - **[InnovationLink](https://innovationlink.in)** (Startup Platform).
     - A **Music Streaming Platform**.
 - 🌱 **Learning:** Advanced **MongoDB** patterns, **AI/ML**, and **Cloud Native Architecture**.
 - 💬 **Ask me about:** Full Stack Development, Entrepreneurship, and DevOps.
@@ -66,7 +66,7 @@ I am a **B.Tech student**, **Entrepreneur**, and the Founder of **[Innovation Li
 <div align="center">
 
 <a href="https://innovationlink.in" target="_blank">
-<img src="https://img.shields.io/badge/Website-Innovation%20Link-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+<img src="https://img.shields.io/badge/Website-InnovationLink-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
 </a>
 &nbsp;
 <a href="mailto:rvcsraju@gmail.com">
