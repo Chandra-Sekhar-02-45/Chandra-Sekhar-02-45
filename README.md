@@ -46,7 +46,7 @@ I am a **B.Tech student**, **Entrepreneur**, and the Founder of **[InnovationLin
 <img src="https://skillicons.dev/icons?i=java,python,c" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,spring" />
 
 ### Database
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
