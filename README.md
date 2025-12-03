@@ -1,47 +1,62 @@
-# Hi 👋, I'm Chandra Sekhar | An Enthusiastic Entrepreneur !  
-![Profile Views](https://komarev.com/ghpvc/?username=Chandra-Sekhar-02-45&color=blue) 
+# 🚀 Hi, I'm Chandra Sekhar — Entrepreneur & Tech Builder  
+![Profile Views](https://komarev.com/ghpvc/?username=Chandra-Sekhar-02-45&color=blue)
+
+I’m a B.Tech student, entrepreneur, and founder of **Innovation Link**, currently designing products, experimenting with new technologies, and building real-world solutions.
 
 ---
 
-- 🌱 I’m currently learning Python and MongoDB.
-- 🔭 I’m working on projects like Innovation Link and Music Streaming Platform.
-- 📫 How to reach me: rvcsraju@gmail.com
+## 🌱 What I'm Learning & Building  
+- 📘 Currently Learning: **MongoDB**, **AIML (Artificial Intelligence & Machine Learning)**  
+- 🔭 Working on:  
+  - **Innovation Link** – Startup ecosystem platform  
+  - **Music Streaming Platform** – A full-stack music application  
+- 📫 Reach me at: **rvcsraju@gmail.com**
 
 ---
 
-## 📊 GitHub Stats:
-
+## 📊 GitHub Insights
 | **Most Used Languages** | **GitHub Stats** |
 |:------------------------:|:----------------:|
-| ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandra-Sekhar-02-45&layout=compact&theme=dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandra-Sekhar-02-45&show_icons=true&theme=dark) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandra-Sekhar-02-45&layout=compact&theme=dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandra-Sekhar-02-45&show_icons=true&theme=dark) |
 
 ---
 
-## 🚀 All Coding Languages and Tools I Used in My Repositories! :
+## 🛠️ Tech Stack  
 
-### Languages and Frameworks:
+### **Languages & Frameworks**
 <div align="left">
-  
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql,c,java,python,js,react" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql,c,java,python,js,react" />
 </div>
 
-### Tools and Platforms:
+### **Tools & Platforms**
 <div align="left">
-
-<img src="https://skillicons.dev/icons?i=ubuntu,github,cpp,figma,jetbrains,docker,kubernetes,jenkins" />
-
+  <img src="https://skillicons.dev/icons?i=ubuntu,github,cpp,figma,jetbrains,docker,kubernetes,jenkins" />
 </div>
 
 ---
 
-## 🌐 Connect with me:
+## 🌐 Connect With Me  
 
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:rvcsraju@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandrasekhar45)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_vcsr_45/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/_Chanduu45_)
+<div align="left">
+
+<a href="mailto:rvcsraju@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+</a>
+
+<a href="https://www.linkedin.com/in/chandrasekhar45" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+</a>
+
+<a href="https://www.instagram.com/_vcsr_45/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="48" />
+</a>
+
+<a href="https://twitter.com/_Chanduu45_" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="48" />
+</a>
+
+</div>
 
 ---
 
-⭐️ Don't forget to star my repositories if you find them useful! 😊
+⭐ If you like my work, consider **starring my repositories** — it motivates me to build more! 😊
