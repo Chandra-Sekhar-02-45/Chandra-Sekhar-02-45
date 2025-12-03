@@ -1,18 +1,24 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Chandra%20Sekhar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Entrepreneur%20%7C%20Full%20Stack%20Developer%20%7C%20Innovator&descAlignY=55&descAlign=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Chandra%20Sekhar&fontSize=80&animation=fadeIn&fontAlignY=35&descAlignY=55&descAlign=60" />
 </div>
 
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Chandra-Sekhar-02-45&color=7000ff)](https://github.com/Chandra-Sekhar-02-45)
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! I'm Chandra Sekhar
+<br>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Entrepreneur;Full+Stack+Developer;Innovator;Founder+of+Innovation+Link" alt="Typing SVG" />
+</a>
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="vertical-align: bottom;"> Hi there! I'm Chandra Sekhar
 
 </div>
 
 ---
 
-## � About Me
+## 🚀 About Me
 
 I am a **B.Tech student**, **Entrepreneur**, and the Founder of **[Innovation Link](https://innovationlink.in)**. I specialize in building scalable, real-world solutions and exploring the frontiers of technology.
 
@@ -25,7 +31,7 @@ I am a **B.Tech student**, **Entrepreneur**, and the Founder of **[Innovation Li
 - 💬 **Ask me about:** Full Stack Development, Entrepreneurship, and DevOps.
 - 📫 **Reach me at:** [rvcsraju@gmail.com](mailto:rvcsraju@gmail.com)
 
-> "Innovation distinguishes between a leader and a follower." �
+> "Innovation distinguishes between a leader and a follower." 🚀
 
 ---
 
