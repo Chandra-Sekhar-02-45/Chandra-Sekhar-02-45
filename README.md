@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I am a **B.Tech student**, **Entrepreneur**, and the Founder of **[InnovationLink](https://innovationlink.in)**. I specialize in building scalable, real-world solutions and exploring the frontiers of technology.
+I am a **B.Tech student from KL University**, **Entrepreneur**, and the Founder of **[InnovationLink](https://innovationlink.in)**. I specialize in building scalable, real-world solutions and exploring the frontiers of technology.
 
 - 💼 **Founder:** **[InnovationLink](https://innovationlink.in)** - A startup ecosystem platform.
 - 🔭 **Building:** A comprehensive **Online Banking System (Fluite)**.
