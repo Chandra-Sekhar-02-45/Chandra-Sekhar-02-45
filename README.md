@@ -46,7 +46,7 @@ I am a **B.Tech student from KL University**, **Entrepreneur**, and the Founder 
 <img src="https://skillicons.dev/icons?i=java,python,c" />
 
 ### Backend
-<!-- <img src="https://skillicons.dev/icons?i=nodejs,spring" /> -->
+<img src="https://skillicons.dev/icons?i=nodejs,spring" /> 
 
 ### Database
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
