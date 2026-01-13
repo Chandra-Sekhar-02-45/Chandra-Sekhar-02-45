@@ -99,7 +99,7 @@ A full-stack media streaming application with a modern UI and seamless playback.
 
 <div align="center">
 
-<a href="https://innovationlink.in" target="_blank">
+<!-- <a href="https://innovationlink.in" target="_blank">
 <img src="https://img.shields.io/badge/Website-InnovationLink-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
 </a>
 &nbsp;
@@ -117,7 +117,7 @@ A full-stack media streaming application with a modern UI and seamless playback.
 &nbsp;
 <a href="https://twitter.com/_Chanduu45_">
 <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
+</a> -->
 
 </div>
 
